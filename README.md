@@ -1,2 +1,3 @@
 # brick-breaker-Game
-brick breaker Game written in Assembly DOSBox
+Brick Breaker Game written in Assembly, DOSBox.
+I built it in 2021 for my 10th-grade final project.
